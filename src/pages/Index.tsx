@@ -418,7 +418,7 @@ const Index = () => {
                     </div>
                     <div>
                       <CardTitle className="text-2xl">Прямые поставки из Японии</CardTitle>
-                      <p className="text-muted-foreground">2015 год</p>
+                      <p className="text-muted-foreground">2025 год</p>
                     </div>
                   </div>
                 </CardHeader>
