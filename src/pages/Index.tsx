@@ -196,7 +196,6 @@ const Index = () => {
         <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-transparent to-transparent opacity-50" />
         <div className="container mx-auto relative z-10">
           <div className="max-w-4xl mx-auto text-center animate-fade-in-up">
-            <Badge className="mb-6 text-sm px-4 py-2">Премиальный сервис с 2010 года</Badge>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
               Профессиональный <span className="text-gradient">ремонт</span> и{" "}
               <span className="text-gradient">продажа</span> японских мотоциклов
